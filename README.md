@@ -1,4 +1,4 @@
-### Hexlet tests and linter status:
+### linter status:
 <a href="https://codeclimate.com/github/Obyrif/java-project-78/maintainability"><img src="https://api.codeclimate.com/v1/badges/c791ac5038eaac016298/maintainability" /></a>
 <a href="https://codeclimate.com/github/Obyrif/java-project-78/test_coverage"><img src="https://api.codeclimate.com/v1/badges/c791ac5038eaac016298/test_coverage" /></a>
 
